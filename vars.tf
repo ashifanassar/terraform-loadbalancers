@@ -22,11 +22,3 @@ variable "ENV" {}
 # variable "DEFAULT_VPC_ID" {}
 # variable "DEFAULT_VPC_CIDR" {}
 # variable "DEFAULT_VPC_RT" {}
-
-
-# Hosted  Zone Variables 
-variable "PUBLIC_HOSTEDZONE_ID" {}
-variable "PUBLIC_HOSTEDZONE_NAME" {}
-
-variable "PRIVATE_HOSTEDZONE_ID" {}
-variable "PRIVATE_HOSTEDZONE_NAME" {}

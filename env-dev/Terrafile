@@ -1,3 +1,3 @@
 alb:
-    source:  "https://github.com/ashifanassar/tf-modules-alb.git"
+    source:  "https://github.com/ashifanassar/tf-module-alb.git"
     version: "main"
